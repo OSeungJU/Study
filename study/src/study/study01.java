@@ -4,7 +4,7 @@ public class study01 {
 
 	public static void main(String[] args) {
 
-		System.out.println("나는 오승주다.");
+		System.out.println("나는 오승주다. 깃 허브를 배웠다.");
 	}
 
 }
