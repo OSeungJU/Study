@@ -4,7 +4,7 @@ public class study01 {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello Java");
+		System.out.println("나는 오승주다.");
 	}
 
 }
